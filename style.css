@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #0044cc;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+main {
+    padding: 2rem;
+}
+.welcome {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.features, .contact {
+    background-color: #ffffff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #0044cc;
+}
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #0044cc;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
